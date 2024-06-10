@@ -1,7 +1,7 @@
 # Obsidian 2 Jekyll
 
 This is a simple python script that converts [Obsidian](https://obsidian.md/) notes to a format that is compatible with [Jekyll](https://jekyllrb.com/) themes that support wikilinks and backlinking like [Jekyll Garden](https://github.com/Jekyll-Garden/jekyll-garden.github.io) or [Digital Garden Jekyll Template](https://github.com/maximevaillancourt/digital-garden-jekyll-template). It adds the filename to the frontmatter as a title and lets you set the visibility of your notes on a folder or note-by-note basis.
-
+Forked project.
 ## Prerequisites
 
 * [Python3](https://www.python.org/downloads/) installation.
