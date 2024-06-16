@@ -27,7 +27,7 @@ I simply have a folder within a Obsidian Vault called posts. When I have complet
 * (TODO) obsidian aliases do not work atm
 * duplicate filenames - when there are two notes with the same name, only one will be copied to the destination directory
 * copy only the updated or recently changed files
-* get tags working correctly
+* get tags working correctly with chirpy
 * add the preview image to the frontmatter
 
 ## Obsidian => Jekyll Pipline
